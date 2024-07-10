@@ -1,0 +1,53 @@
+        body {
+            background-image: url(https://img.freepik.com/vetores-gratis/textura-de-aquarela-azul-suave_1055-10494.jpg?t=st=1720202542~exp=1720206142~hmac=fe0b1a7162e15a1044dc175e4abd9a91fd211b44297c7668d4dbc56dc8e487e9&w=996);
+            background-size: 100%;
+            background-repeat: repeat;
+            background-position: center;
+        }
+
+        .container img {
+            max-width: 300px;
+            max-height: 100px;
+
+        }
+
+        .container {
+            clear: both;
+            margin-top: 60px;
+            text-align: center;
+
+        }
+
+        img {
+            vertical-align: top
+        }
+
+        h2 {
+            color: white;
+            text-shadow: black; 
+            text-align: center;
+
+        }
+
+        button {
+            background-color: white;
+            text-align: center;
+            border: 0;
+            padding: 10px;
+            width: 200px;
+            display: inline-block;
+            margin: 10px;
+            cursor: pointer;
+            border-radius: 12px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold; 
+            
+        }
+
+        body {
+            height: 100vh;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
